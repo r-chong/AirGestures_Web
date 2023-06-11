@@ -3,6 +3,7 @@ Jamhacks 2023 🍇 - Machine learning using python OpenCV, MediaPipe, and Stream
 
 * Utilized Mediapipe and OpenCV to precisely track finger positions in the human hand
 * Trained the system to recognize hand gestures, enabling next-generation shortcuts and intuitive interaction. 
+* Used Streamlit to give a web-based platform that allows users to access application more quickly
 
 Using this program, developers can create gestures to trigger actions and control applications, opening up the potential for shortcuts for efficient notetaking and eliminating the need for drawing tablets.
 
